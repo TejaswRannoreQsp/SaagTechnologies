@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestScripts.Registertest">
+        <methods>
+          <include name="LogoutFromApplication"/>
+          <include name="NavigateToApplication"/>
+          <include name="registeringToApplication"/>
+          <include name="beforesuiteconfig"/>
+          <include name="AfterSuiteConfig"/>
+          <include name="CloseTheBrowser"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- TestScripts.Registertest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
