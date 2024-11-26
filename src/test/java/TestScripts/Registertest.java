@@ -19,6 +19,7 @@ public class Registertest extends BaseClass{
 	Welcomepage w=new Welcomepage(driver);
 	w.getRegisterLink().click();
 	r.getFirstnametextfield().sendKeys(e.ToReadDataFromExcelFile("Register", 1, 0));
+	
 	r.getLastnametextfield().sendKeys(e.ToReadDataFromExcelFile("Register", 1, 1));
 	r.getEmailtextfield().sendKeys(e.ToReadDataFromExcelFile("Register", 1, 2));
 	r.getPasswordTextfield().sendKeys(e.ToReadDataFromExcelFile("Register", 1, 3));

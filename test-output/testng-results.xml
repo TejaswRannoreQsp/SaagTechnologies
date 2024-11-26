@@ -11,42 +11,42 @@
       <![CDATA[---Database connection removed--]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-08-08T07:37:20 IST" name="Default suite" finished-at="2024-08-08T07:37:32 IST" duration-ms="12494">
+  <suite started-at="2024-11-21T18:38:01 IST" name="Default suite" finished-at="2024-11-21T18:38:16 IST" duration-ms="14288">
     <groups>
     </groups>
-    <test started-at="2024-08-08T07:37:20 IST" name="Default test" finished-at="2024-08-08T07:37:32 IST" duration-ms="12494">
+    <test started-at="2024-11-21T18:38:01 IST" name="Default test" finished-at="2024-11-21T18:38:16 IST" duration-ms="14288">
       <class name="TestScripts.Registertest">
-        <test-method is-config="true" signature="beforesuiteconfig()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:20 IST" name="beforesuiteconfig" finished-at="2024-08-08T07:37:20 IST" duration-ms="12" status="PASS">
+        <test-method is-config="true" signature="beforesuiteconfig()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:01 IST" name="beforesuiteconfig" finished-at="2024-11-21T18:38:01 IST" duration-ms="16" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[---DataBase connection established---]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforesuiteconfig -->
-        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:20 IST" name="LaunchBrowser" finished-at="2024-08-08T07:37:23 IST" duration-ms="2816" status="PASS">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:01 IST" name="LaunchBrowser" finished-at="2024-11-21T18:38:08 IST" duration-ms="6635" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser is maximised]]>
             </line>
           </reporter-output>
         </test-method> <!-- LaunchBrowser -->
-        <test-method is-config="true" signature="NavigateToApplication()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:23 IST" name="NavigateToApplication" finished-at="2024-08-08T07:37:28 IST" duration-ms="4906" status="PASS">
+        <test-method is-config="true" signature="NavigateToApplication()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:08 IST" name="NavigateToApplication" finished-at="2024-11-21T18:38:12 IST" duration-ms="3741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToApplication -->
-        <test-method signature="registeringToApplication()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:28 IST" name="registeringToApplication" finished-at="2024-08-08T07:37:32 IST" duration-ms="4437" status="PASS">
+        <test-method signature="registeringToApplication()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:12 IST" name="registeringToApplication" finished-at="2024-11-21T18:38:15 IST" duration-ms="3612" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registeringToApplication -->
-        <test-method is-config="true" signature="LogoutFromApplication()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:32 IST" name="LogoutFromApplication" finished-at="2024-08-08T07:37:32 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LogoutFromApplication -->
-        <test-method is-config="true" signature="CloseTheBrowser()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:32 IST" name="CloseTheBrowser" finished-at="2024-08-08T07:37:32 IST" duration-ms="283" status="PASS">
+        <test-method is-config="true" signature="CloseTheBrowser()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:15 IST" name="CloseTheBrowser" finished-at="2024-11-21T18:38:16 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseTheBrowser -->
-        <test-method is-config="true" signature="AfterSuiteConfig()[pri:0, instance:TestScripts.Registertest@399f45b1]" started-at="2024-08-08T07:37:33 IST" name="AfterSuiteConfig" finished-at="2024-08-08T07:37:33 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="LogoutFromApplication()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:15 IST" name="LogoutFromApplication" finished-at="2024-11-21T18:38:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFromApplication -->
+        <test-method is-config="true" signature="AfterSuiteConfig()[pri:0, instance:TestScripts.Registertest@35cabb2a]" started-at="2024-11-21T18:38:16 IST" name="AfterSuiteConfig" finished-at="2024-11-21T18:38:16 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[---Database connection removed--]]>
